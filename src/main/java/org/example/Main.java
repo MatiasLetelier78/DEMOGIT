@@ -5,7 +5,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hola que tal");
-
+        System.out.println("Prueba numero 1");
+        System.out.println("Segundo comit");
 
     }
 }
